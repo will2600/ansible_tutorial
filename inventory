@@ -1,2 +1,7 @@
+[web_servers]
 node1@192.168.21.133
-will@192.168.21.132
+node4@192.168.21.135
+[db_servers]
+will@192.168.21.132 
+
+[file_servers]
