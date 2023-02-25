@@ -3,5 +3,7 @@ node1@192.168.21.133
 node4@192.168.21.135
 [db_servers]
 will@192.168.21.132 
-
 [file_servers]
+
+[workstations]
+node1@192.168.21.133
